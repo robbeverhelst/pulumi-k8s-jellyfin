@@ -1,0 +1,3 @@
+name: jellyfin
+runtime: nodejs
+description: Minimal Jellyfin stack

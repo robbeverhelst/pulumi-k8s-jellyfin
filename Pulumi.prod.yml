@@ -1,0 +1,7 @@
+config:
+  jellyfin:namespace: jellyfin
+  jellyfin:storageClass: truenas-hdd-mirror-nfs
+  jellyfin:mediaSize: 50Ti
+  jellyfin:nfsServer: 192.168.1.195
+  jellyfin:nfsPath: /mnt/hdd-stripe-pool/k8s/nfs/vols/pvc-4c24115b-3eca-4d97-9026-02f19d5b998c
+encryptionsalt: v1:VW8seimj6/g=:v1:BeUD0x9YQyIy+5nH:nbZuQXJ6D9Jgjr2Rmz2AXk87YKGIew==
